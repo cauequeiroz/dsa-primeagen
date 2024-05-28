@@ -6,13 +6,13 @@ Reference course: [The Last Algorithms Course You'll Need](https://frontendmaste
 
 ## Data Structures
 
-[x] Array  
-[x] LinkedList  
-[x] Queue  
-[x] Stack
+- [x] Array  
+- [x] LinkedList  
+- [x] Queue  
+- [x] Stack
 
 ## Algorithms
 
-[x] Linear Search  
-[x] Binary Search  
-[x] Bubble Sort  
+- [x] Linear Search  
+- [x] Binary Search  
+- [x] Bubble Sort  
