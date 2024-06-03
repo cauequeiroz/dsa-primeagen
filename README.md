@@ -10,6 +10,7 @@ Reference course: [The Last Algorithms Course You'll Need](https://frontendmaste
 - [x] LinkedList  
 - [x] Queue  
 - [x] Stack
+- [x] Tree
 
 ## Algorithms
 
@@ -17,3 +18,4 @@ Reference course: [The Last Algorithms Course You'll Need](https://frontendmaste
 - [x] Binary Search  
 - [x] Bubble Sort  
 - [x] Quick Sort  
+- [x] Pre/In/Post Order Tree Traversal
