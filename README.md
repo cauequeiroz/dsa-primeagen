@@ -16,3 +16,4 @@ Reference course: [The Last Algorithms Course You'll Need](https://frontendmaste
 - [x] Linear Search  
 - [x] Binary Search  
 - [x] Bubble Sort  
+- [x] Quick Sort  
