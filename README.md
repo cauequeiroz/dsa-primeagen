@@ -11,6 +11,7 @@ Reference course: [The Last Algorithms Course You'll Need](https://frontendmaste
 - [x] Queue  
 - [x] Stack
 - [x] Tree
+- [x] Heap
 
 ## Algorithms
 
